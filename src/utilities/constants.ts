@@ -1,0 +1,10 @@
+export const somethingWrong = "Something went wrong";
+export const requiredField = "Required Field";
+export const minLength = "Minimum length is 8 characters";
+export const maxLengthReached = "Max. length reached";
+export const notValidEmail = "Not a valid email";
+export const notValidNumber = "Not a valid number";
+export const notValidCode = "Not a valid code";
+export const notValidName = "Not a valid name";
+export const notValidPassword = "Not a valid password Pattern";
+export const confirmPassword = "Not match confirm password";
